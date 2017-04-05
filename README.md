@@ -1,3 +1,7 @@
+Origin https://github.com/Trixarian/sakis3g-source.git
+change: #include <libusb.h> in dependencies/usb-modeswitch/usb_modeswitch.h to #include <libusb-1.0/libusb.h> 
+
+
 Compiling
 ---------
 
